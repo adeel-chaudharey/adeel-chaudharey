@@ -1,12 +1,12 @@
-# Hi, I'm Adeel Abbas 👋
+# Hi, I'm Adeel Abbas !
 
 Full-Stack JavaScript Developer passionate about building modern, production-ready web applications.
 
-🚀 Currently building **Lumora**, a full-stack eCommerce platform using **Next.js, TypeScript, Supabase, PostgreSQL, and Stripe**.
+ Currently building **Lumora**, a full-stack eCommerce platform using **Next.js, TypeScript, Supabase, PostgreSQL, and Stripe**.
 
 ---
 
-## 🚀 Currently Building
+##  Currently Building
 
 ### Lumora
 
@@ -22,7 +22,7 @@ A modern eCommerce platform featuring:
 
 ---
 
-## 💻 Tech Stack
+##  Tech Stack
 
 ### Frontend
 
@@ -47,7 +47,7 @@ A modern eCommerce platform featuring:
 
 ---
 
-## 📊 GitHub Stats
+##  GitHub Stats
 
 ![Adeel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=adeel-chaudharey&show_icons=true&hide_border=true)
 
@@ -55,7 +55,7 @@ A modern eCommerce platform featuring:
 
 ---
 
-## 📫 Let's Connect
+##  Let's Connect
 
 - 💼 LinkedIn: https://www.linkedin.com/in/adeel-chaudharey/
 - 📧 Email: adeelabbaschaudharey@gmail.com
