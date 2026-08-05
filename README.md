@@ -1,9 +1,7 @@
 # Adeel Abbas
+Full-Stack JavaScript Developer focused on building scalable, production-ready web applications with React, Next.js, TypeScript, Supabase, PostgreSQL, and Stripe.
 
-Full-Stack JavaScript Developer building modern web applications with React, Next.js, TypeScript, Supabase, PostgreSQL, and Stripe.
-
-I'm currently working on **Lumora**, a production-ready eCommerce platform focused on clean architecture, scalability, and a great user experience. I enjoy building real-world software, learning new technologies, and continuously improving my craft.
-
+I'm currently working on **Lumora**, a production-ready eCommerce platform focused on clean architecture, scalability, and a great user experience.I enjoy solving real-world problems through software and continuously improving as a developer.
 ---
 
 ## Current Project
@@ -21,7 +19,7 @@ Current features include:
 - Stripe payment integration
 - Responsive user interface
 
-Deployment and final production improvements are currently in progress.
+Currently focused on deployment, testing, and production readiness.
 
 ---
 ## Tech Stack
@@ -57,4 +55,4 @@ Deployment and final production improvements are currently in progress.
 
 ---
 
-> I believe the best way to learn software engineering is by building software.
+> The fastest way to grow as a software engineer is to build software..
