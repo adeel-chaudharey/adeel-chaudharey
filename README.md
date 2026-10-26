@@ -1,10 +1,6 @@
 # Adeel Abbas
 Full-Stack JavaScript Developer focused on building scalable, production-ready web applications with React, Next.js, TypeScript, Supabase, PostgreSQL, and Stripe.
 
-I'm currently working on **Lumora**, a production-ready eCommerce platform focused on clean architecture, scalability, and a great user experience.I enjoy solving real-world problems through software and continuously improving as a developer.
----
-
-## Current Project
 
 ### Lumora
 
